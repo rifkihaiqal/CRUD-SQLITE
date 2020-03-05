@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "761352651464",
+    "firebase_url": "https://crudsqlitehaiqallanjutan.firebaseio.com",
+    "project_id": "crudsqlitehaiqallanjutan",
+    "storage_bucket": "crudsqlitehaiqallanjutan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761352651464:android:728bd79085615571",
+        "android_client_info": {
+          "package_name": "com.example.haiqal.crudsqlitehaiqallanjutan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "761352651464-p1uvasmfebu0km7tqrh5a68194ufrj6k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.haiqal.crudsqlitehaiqallanjutan",
+            "certificate_hash": "1404aec18a24dd3c5283468552e9a97bba481918"
+          }
+        },
+        {
+          "client_id": "761352651464-3c5caa8h8bdmpvq3j3qn4hedtdb9a2s0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWD48pTnS3rBKR9SeoSed6rZAZ0lA2Xq8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "761352651464-3c5caa8h8bdmpvq3j3qn4hedtdb9a2s0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
